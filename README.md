@@ -22,7 +22,7 @@ API REST construida con **Node.js**, **Express** y **MongoDB**. Incluye autentic
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Tez-Tez-Tez/reto1-backend.git
 cd reto1-backend
 ```
 
