@@ -31,7 +31,7 @@ cd reto1-backend
 Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
 
 ```env
-JWT_SECRET=mysecret-jwt
+JWT_SECRET=clavedeejemplo
 MONGO_URI=mongodb://localhost:27017/reto1
 ```
 
