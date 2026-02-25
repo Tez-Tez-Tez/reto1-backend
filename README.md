@@ -37,7 +37,7 @@ MONGO_URI=mongodb://localhost:27017/reto1
 
 > La variable `MONGO_URI` es sobreescrita automáticamente por Docker Compose con `mongodb://mongo:27017/reto1` para comunicarse entre contenedores. El valor del `.env` solo aplica para ejecución local sin Docker.
 
-### 3. Construir y levantar los contenedores
+### 3. Construir y levantar los contenedores 
 
 ```bash
 docker compose up --build
